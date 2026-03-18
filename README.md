@@ -6,7 +6,7 @@ A clean, minimal password generator built with vanilla HTML, CSS, and JavaScript
 
 ---
 
-## ✨ Features
+## Features
 
 - **Adjustable length** — Slide between 4 and 32 characters
 - **Character options** — Mix and match uppercase, lowercase, numbers, and symbols
@@ -19,7 +19,7 @@ A clean, minimal password generator built with vanilla HTML, CSS, and JavaScript
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repo**
    ```bash
@@ -37,7 +37,7 @@ That's it. No installs, no build steps.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 Password_Generator/
@@ -48,7 +48,7 @@ Password_Generator/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 | Feature | Logic |
 |---|---|
@@ -68,7 +68,7 @@ Password_Generator/
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 ```
 ┌─────────────────────────────────────┐
