@@ -14,6 +14,9 @@ A clean, minimal password generator built with vanilla HTML, CSS, and JavaScript
 - **One-click copy** — Copies the generated password to clipboard instantly
 - **Zero dependencies** — Pure vanilla JS, no libraries or build tools needed
 
+- <img width="1181" height="1049" alt="image" src="https://github.com/user-attachments/assets/6a0cb2a2-b077-4d64-bc88-09e2abb1b174" />
+
+
 ---
 
 ## 🚀 Getting Started
